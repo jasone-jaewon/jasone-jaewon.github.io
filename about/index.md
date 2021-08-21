@@ -18,4 +18,7 @@ comments: false
 * 요리
 * 여행
 
-![image.jpg](../assets/img/profile/profile1.jpg)
+## Profile
+<img src="../assets/img/profile/profile1.jpg" width="300">
+
+[comment]: <> (![image.jpg]&#40;../assets/img/profile/profile1.jpg&#41;)
