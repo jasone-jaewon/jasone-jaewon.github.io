@@ -1,7 +1,7 @@
 # Site
 title:              JaewonJung
-bio:                "오늘만 산다"
-description:        "I love Java"
+bio:                "일기장"
+description:        "요리 및 여행, 일기 등 기록"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
