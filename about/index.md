@@ -6,7 +6,7 @@ date: 2019-01-16
 comments: false
 ---
     
-<center><a href="http://jasone-jaewon.github.io/"><b>Jaewon</b></a> will be a professional programmer.</center>
+<center><a href="http://jasone-jaewon.github.io/"><b>Jaewon</b></a> will be a GME Holder.</center>
 
 ## Life
 * 2012.02~2012.05 Got ESL certificate at CSLI
@@ -15,13 +15,7 @@ comments: false
 * 2019.01~ NHN Entertainment
 
 ## Hobby
-* Playing soccer
-* Watching on Netflix(I love `stranger things`)
-* Travelling
+* 요리
+* 여행
 
-## Picture
-
-{% capture images %}
-    ![1547636679.093643.jpg](/files/2393546979903237468)
-    ![1547636860.846259.jpg](/files/2393547054861520872)
-{% endcapture %}
+## Profile
