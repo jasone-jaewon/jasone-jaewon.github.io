@@ -6,7 +6,7 @@ date: 2019-01-16
 comments: false
 ---
     
-<center><a href="http://jasone-jaewon.github.io/"><b>Jaewon</b></a> will be a GME Holder.</center>
+<center><a href="http://jasone-jaewon.github.io/"><b>Jaewon</b></a> is a GME Holder.</center>
 
 ## Life
 * 2012.02~2012.05 Got ESL certificate at CSLI
