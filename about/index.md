@@ -20,5 +20,3 @@ comments: false
 
 ## Profile
 <img src="../assets/img/profile/profile1.jpg" width="300px" height="400px">
-
-[comment]: <> (![image.jpg]&#40;../assets/img/profile/profile1.jpg&#41;)
