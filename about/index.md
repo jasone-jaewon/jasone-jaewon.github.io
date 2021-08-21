@@ -19,3 +19,4 @@ comments: false
 * 여행
 
 ## Profile
+![image.jpg](../assets/img/profile/profile1.jpg)
