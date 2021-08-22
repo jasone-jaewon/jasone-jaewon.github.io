@@ -1,7 +1,12 @@
-<iframe src="https://map.naver.com/v5/entry/place/{{ include.postfix }}"
-        width="100%"
-        height="360"
-        style="border:0;"
-        allowfullscreen=""
-        loading="lazy">
-</iframe>
+<style>
+    .embed-map-container { position: relative; padding-bottom: 56.25%; height: 360; overflow: hidden; max-width: 100%; }
+    .embed-map-container iframe, .embed-map-container object,
+    .embed-map-container embed { position: absolute; top: 0; left: 0; width: 100%;}
+</style>
+<div class='embed-map-container'>
+    <iframe src="https://map.naver.com/v5/entry/place/{{ include.postfix }}"
+            loading="lazy">
+<!--            style="border:0;"-->
+<!--            allowfullscreen=""-->
+    </iframe>
+</div>
